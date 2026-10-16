@@ -1,0 +1,137 @@
+[
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/configs/login"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/configs/login"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/configs/login"
+  },
+  {
+    "method": "POST",
+    "status": 204,
+    "url": "http://localhost:18073/kestra2/api/v1/login"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/configs"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/main/flows/search?size=1&filters%5Bnamespace%5D%5BNOT_EQUALS%5D=tutorial"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/configs/login"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/configs"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/configs"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/notifications/history?limit=20"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/main/dashboards/defaults/definitions"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/main/flows/search?size=1&filters%5Bnamespace%5D%5BNOT_EQUALS%5D=tutorial"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/notifications/unread-count"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/configs/login"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/configs"
+  },
+  {
+    "method": "POST",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/main/dashboards/charts/preview"
+  },
+  {
+    "method": "POST",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/main/dashboards/charts/preview"
+  },
+  {
+    "method": "POST",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/main/dashboards/charts/preview"
+  },
+  {
+    "method": "POST",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/main/dashboards/charts/preview"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/configs/login"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/configs"
+  },
+  {
+    "method": "POST",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/main/dashboards/charts/preview"
+  },
+  {
+    "method": "POST",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/main/dashboards/charts/preview"
+  },
+  {
+    "method": "POST",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/main/dashboards/charts/preview"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/main/flows/search?page=1&size=25&sort=id%3Aasc"
+  },
+  {
+    "method": "POST",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/main/executions/latest"
+  },
+  {
+    "method": "POST",
+    "status": 200,
+    "url": "http://localhost:18073/kestra2/api/v1/main/dashboards/charts/preview"
+  }
+]

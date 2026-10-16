@@ -1,0 +1,42 @@
+[
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "http://localhost:18071/kestra2/api/v1/configs/login"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "http://localhost:18071/kestra2/api/v1/configs/login"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "http://localhost:18071/kestra2/api/v1/configs/login"
+  },
+  {
+    "method": "POST",
+    "status": 204,
+    "url": "http://localhost:18071/kestra2/api/v1/login"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "http://localhost:18071/kestra2/api/v1/configs"
+  },
+  {
+    "method": "GET",
+    "status": 404,
+    "url": "http://localhost:18071/api/v1/main/flows/search?size=1&filters%5Bnamespace%5D%5BNOT_EQUALS%5D=tutorial"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "http://localhost:18071/kestra2/api/v1/configs/login"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "http://localhost:18071/kestra2/api/v1/configs/login"
+  }
+]
